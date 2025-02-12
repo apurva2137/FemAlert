@@ -4,6 +4,7 @@ FemALert is an advanced real-time threat detection system designed to enhance wo
 
 ## Features
  Real-Time Anomaly Detection – Identifies unusual behavior to alert authorities.
+ 
 🔹 **Person Detection & Gender Classification** – Counts and classifies individuals in an area.
 
 🔹 **Lone Woman Detection at Night** – Detects women walking alone in unsafe conditions.
