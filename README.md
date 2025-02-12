@@ -23,6 +23,8 @@ YOLOv8 (Real-time person detection, gender classification)
 OpenPose (Pose estimation for distress gestures)
 MediaPipe (Lightweight alternative for hand/face keypoint detection)
 
+**Project is under development**
+
 **Frameworks**: Scikit-Learn, TensorFlow, OpenCV
 
 ## How It Works
