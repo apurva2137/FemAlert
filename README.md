@@ -7,8 +7,6 @@ FemALert is an advanced real-time threat detection system designed to enhance wo
  
 🔹 **Person Detection & Gender Classification** – Counts and classifies individuals in an area.
 
-🔹 **Lone Woman Detection at Night** – Detects women walking alone in unsafe conditions.
-
 🔹 **Surrounding Threat Analysis** – Identifies when a woman is surrounded by a group of men.
 
 🔹 **Gesture-Based SOS Recognition** – Recognizes emergency signals like hand gestures for distress.
@@ -36,5 +34,5 @@ MediaPipe (Lightweight alternative for hand/face keypoint detection)
 
 -Live data visualization to track unsafe areas.
 
-Demo Tested Video: 
-"C:\Users\HP\Downloads\download.mp4"
+Demo Tested Video for : 
+https://drive.google.com/file/d/17an2KyEvwjtzy9V0bIm4ccSAaK6fNdfB/view?usp=sharing
