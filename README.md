@@ -35,4 +35,4 @@ MediaPipe (Lightweight alternative for hand/face keypoint detection)
 -Live data visualization to track unsafe areas.
 
 Demo Tested Video for : 
-https://drive.google.com/file/d/17an2KyEvwjtzy9V0bIm4ccSAaK6fNdfB/view?usp=sharing
+https://drive.google.com/file/d/1kr62UBFv3CcVZv0-uJRNBLpt0O9c1vUy/view?usp=sharing
