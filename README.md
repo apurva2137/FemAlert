@@ -35,3 +35,6 @@ MediaPipe (Lightweight alternative for hand/face keypoint detection)
 -Automated alerts & notifications sent to emergency contacts or authorities.
 
 -Live data visualization to track unsafe areas.
+
+Demo Tested Video: 
+"C:\Users\HP\Downloads\download.mp4"
